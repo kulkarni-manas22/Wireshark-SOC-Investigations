@@ -13,7 +13,7 @@ This repository contains investigation reports, supporting screenshots, a reusab
 
 | ID | Investigation | Focus | Report |
 |---|---|---|---|
-| [INV-001](01-Basics/INV-001-DNS/) | DNS Investigation | DNS requests, responses, and name resolution | [Open folder](01-Basics/INV-001-DNS/) |
+| [INV-001](01-Basics/INV-001-DNS/) | DNS Investigation | DNS requests, responses, and name resolution | [Open folder](01-Basics/INV-001-DNS.odt/) |
 | [INV-002](01-Basics/INV-002-ICMP/) | ICMP Investigation | ICMP traffic and connectivity behaviour | [Open folder](01-Basics/INV-002-ICMP/) |
 | [INV-003](01-Basics/INV-003-TCP/) | TCP Investigation | TCP headers, flags, handshakes, and connection behaviour | [Open folder](01-Basics/INV-003-TCP/) |
 | [INV-004](01-Basics/INV-004-UDP/) | UDP Investigation | UDP traffic and connectionless communication | [Open folder](01-Basics/INV-004-UDP/) |
