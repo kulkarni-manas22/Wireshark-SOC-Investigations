@@ -22,7 +22,7 @@ This repository contains investigation reports, supporting screenshots, a reusab
 | [INV-007](02-Protocols/INV-007-TLS/) | TLS + Network Anomaly Investigation | TLS negotiation, certificates, metadata, and encryption limits | [Open folder](02-Protocols/INV-007-TLS.odt/) |
 | [INV-008](03-network-analysis/INV-008-TCP_Problems/) | TCP Anomalies | Retransmissions, resets, Kerberos exchanges, and evidence limits | [Open folder](03-network-analysis/INV-008-TCP_Problems.odt/) |
 | [INV-009](03-network-analysis/INV-009-Port_Scanning/) | Port Scanning Investigation | SYN probes, destination ports, and response patterns | [Open folder](03-network-analysis/INV-009-Port_Scanning.odt/) |
-| [INV-010](04-Security_investigations/INV-010-Security-Incident/) | Full SOC Investigation | Capture overview, SMB2 activity, downloads, and suspicious NetSupport-like communication | [Open folder](04-Security_investigations/INV-010-Security-Incident.odt/) |
+| [INV-010](04-Security_investigations/INV-010-Security_Incident/) | Full SOC Investigation | Capture overview, SMB2 activity, downloads, and suspicious NetSupport-like communication | [Open folder](04-Security_investigations/INV-010-Security_Incident.odt/) |
 
 **INV-005 — DHCP** is reserved in the structure, but no DHCP report was included in the files reviewed for this repository setup. Add its link once the report exists.
 
