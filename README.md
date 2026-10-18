@@ -20,9 +20,9 @@ This repository contains investigation reports, supporting screenshots, a reusab
 | [INV-005](02-Protocols/INV-005-DHCP/) | DHCP Investigation | DHCP discovery and address assignment | [Open folder](02-Protocols/INV-005-DHCP.odt/) |
 | [INV-006](02-Protocols/INV-006-HTTP/) | HTTP + TCP Stream Investigation | HTTP requests/responses, user agents, and stream analysis | [Open folder](02-Protocols/INV-006-HTTP.odt/) |
 | [INV-007](02-Protocols/INV-007-TLS/) | TLS + Network Anomaly Investigation | TLS negotiation, certificates, metadata, and encryption limits | [Open folder](02-Protocols/INV-007-TLS.odt/) |
-| [INV-008](03-Network-Analysis/INV-008-TCP-Problems/) | TCP Anomalies | Retransmissions, resets, Kerberos exchanges, and evidence limits | [Open folder](03-Network-Analysis/INV-008-TCP-Problems.odt/) |
-| [INV-009](03-Network-Analysis/INV-009-Port-Scanning/) | Port Scanning Investigation | SYN probes, destination ports, and response patterns | [Open folder](03-Network-Analysis/INV-009-Port-Scanning.odt/) |
-| [INV-010](04-Security-Investigations/INV-010-Security-Incident/) | Full SOC Investigation | Capture overview, SMB2 activity, downloads, and suspicious NetSupport-like communication | [Open folder](04-Security-Investigations/INV-010-Security-Incident.odt/) |
+| [INV-008](03-network-analysis/INV-008-TCP-Problems/) | TCP Anomalies | Retransmissions, resets, Kerberos exchanges, and evidence limits | [Open folder](03-network-analysis/INV-008-TCP-Problems.odt/) |
+| [INV-009](03-network-analysis/INV-009-Port-Scanning/) | Port Scanning Investigation | SYN probes, destination ports, and response patterns | [Open folder](03-network-analysis/INV-009-Port-Scanning.odt/) |
+| [INV-010](04-Security-investigations/INV-010-Security-Incident/) | Full SOC Investigation | Capture overview, SMB2 activity, downloads, and suspicious NetSupport-like communication | [Open folder](04-Security-investigations/INV-010-Security-Incident.odt/) |
 
 **INV-005 — DHCP** is reserved in the structure, but no DHCP report was included in the files reviewed for this repository setup. Add its link once the report exists.
 
