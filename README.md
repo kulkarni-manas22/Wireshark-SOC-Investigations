@@ -9,18 +9,20 @@ A practical portfolio of network-traffic investigations conducted with **Wiresha
 This repository contains investigation reports, supporting screenshots, a reusable Wireshark filter cheat sheet, and links to the packet captures used during analysis.
 
 ### Investigation Index
+## Investigation Index
 
 | ID | Investigation | Focus | Report |
 |---|---|---|---|
-| INV-001 | DNS Investigation | DNS requests, responses, and name resolution | `01-Basics/INV-001-DNS/` *(add report link)* |
-| INV-002 | ICMP Investigation | ICMP traffic and connectivity behaviour | `01-Basics/INV-002-ICMP/` *(add report link)* |
-| INV-003 | TCP Investigation | TCP headers, flags, handshakes, and connection behaviour | `01-Basics/INV-003-TCP/` *(add report link)* |
-| INV-004 | UDP Investigation | UDP traffic and connectionless communication | `01-Basics/INV-004-UDP/` *(add report link)* |
-| [INV-006](02-Protocols/INV-006-HTTP/) | HTTP + TCP Stream Investigation | HTTP requests/responses, user agents, and stream analysis | [Open report folder](02-Protocols/INV-006-HTTP/) |
-| [INV-007](02-Protocols/INV-007-TLS/) | TLS + Network Anomaly Investigation | TLS negotiation, visible metadata, certificates, and encryption limits | [Open report folder](02-Protocols/INV-007-TLS/) |
-| [INV-008](03-Network-Analysis/INV-008-TCP-Problems/) | TCP Anomalies | Retransmissions, resets, Kerberos exchanges, and evidence limits | [Open report folder](03-Network-Analysis/INV-008-TCP-Problems/) |
-| [INV-009](03-Network-Analysis/INV-009-Port-Scan/) | Port Scanning Investigation | SYN probes, destination ports, and response patterns | [Open report folder](03-Network-Analysis/INV-009-Port-Scan/) |
-| [INV-010](04-Security-Investigations/INV-010-Security-Incident/) | Full SOC Investigation | Capture overview, SMB2 activity, downloads, and suspicious NetSupport-like communication | [Open report folder](04-Security-Investigations/INV-010-Security-Incident/) |
+| [INV-001](01-Basics/INV-001-DNS/) | DNS Investigation | DNS requests, responses, and name resolution | [Open folder](01-Basics/INV-001-DNS/) |
+| [INV-002](01-Basics/INV-002-ICMP/) | ICMP Investigation | ICMP traffic and connectivity behaviour | [Open folder](01-Basics/INV-002-ICMP/) |
+| [INV-003](01-Basics/INV-003-TCP/) | TCP Investigation | TCP headers, flags, handshakes, and connection behaviour | [Open folder](01-Basics/INV-003-TCP/) |
+| [INV-004](01-Basics/INV-004-UDP/) | UDP Investigation | UDP traffic and connectionless communication | [Open folder](01-Basics/INV-004-UDP/) |
+| [INV-005](02-Protocols/INV-005-DHCP/) | DHCP Investigation | DHCP discovery and address assignment | [Open folder](02-Protocols/INV-005-DHCP/) |
+| [INV-006](02-Protocols/INV-006-HTTP/) | HTTP + TCP Stream Investigation | HTTP requests/responses, user agents, and stream analysis | [Open folder](02-Protocols/INV-006-HTTP/) |
+| [INV-007](02-Protocols/INV-007-TLS/) | TLS + Network Anomaly Investigation | TLS negotiation, certificates, metadata, and encryption limits | [Open folder](02-Protocols/INV-007-TLS/) |
+| [INV-008](03-Network-Analysis/INV-008-TCP-Problems/) | TCP Anomalies | Retransmissions, resets, Kerberos exchanges, and evidence limits | [Open folder](03-Network-Analysis/INV-008-TCP-Problems/) |
+| [INV-009](03-Network-Analysis/INV-009-Port-Scan/) | Port Scanning Investigation | SYN probes, destination ports, and response patterns | [Open folder](03-Network-Analysis/INV-009-Port-Scan/) |
+| [INV-010](04-Security-Investigations/INV-010-Security-Incident/) | Full SOC Investigation | Capture overview, SMB2 activity, downloads, and suspicious NetSupport-like communication | [Open folder](04-Security-Investigations/INV-010-Security-Incident/) |
 
 **INV-005 — DHCP** is reserved in the structure, but no DHCP report was included in the files reviewed for this repository setup. Add its link once the report exists.
 
